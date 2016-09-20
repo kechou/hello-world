@@ -1,2 +1,4 @@
 # hello-world
-Le tuto de GitHub.
+
+
+C'est le tuto de GitHub, donc c'est pas du tout digne d'intérêt. :[
